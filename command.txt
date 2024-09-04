@@ -1,0 +1,1 @@
+pyinstaller --add-data="version.txt:." --noconfirm gen_readme.py  

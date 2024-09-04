@@ -1,0 +1,6 @@
+/.env
+/build
+/dist
+/gen_readme.spec
+/__pycache__
+/123
